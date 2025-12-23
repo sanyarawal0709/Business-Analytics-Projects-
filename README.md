@@ -22,7 +22,6 @@ To convert raw business data into meaningful insights by designing interactive d
 
 **5. Projects Included**
 - Adidas Sales Analysis Dashboard
-- Heart Disease Dashboard
 - Blinkit Sales Dashboard
 - Uber Analysis Dashboard
 
